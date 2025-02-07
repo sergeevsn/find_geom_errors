@@ -8,7 +8,9 @@ the smallest offset. If not, we have geometry error.
 At least FFID and OFFSET must be present in trace headers.
 
 SEG-Y File name must be provided in command line
-Results text file is set below in parameters
+Results text file consists of specified header values related to seismograms with 
+errors and the value of shift between near-source trace and minimum offset trace 
+(aka geom error). It plots images of seismograms with error as well 
 
 
 Uses SegyIO for file reading https://github.com/equinor/segyio
