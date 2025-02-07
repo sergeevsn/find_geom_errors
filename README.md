@@ -25,5 +25,5 @@ pip install -r requirements.txt
 
 ### Test run
 ```bash
-python3 find_geomerty_error.py test.sgy
+python3 find_geometry_error.py test.sgy
 ```
