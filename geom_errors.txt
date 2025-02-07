@@ -1,0 +1,4 @@
+           FFID  SourceStation      GeomError
+           2119            442              2
+           2123            440              5
+           2125            443              6
