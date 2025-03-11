@@ -22,6 +22,7 @@ tqdm for progress https://github.com/tqdm/tqdm
 git clone https://github.com/sergeevsn/find_geom_errors.git
 cd find_geom_errors
 python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
